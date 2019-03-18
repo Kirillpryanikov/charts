@@ -88,7 +88,7 @@ export class Dashboard extends React.Component{
           <h5>
             <label htmlFor="contactChoice2">Japan </label>
             <input type="radio" id="contactChoice2"
-                   name="contact" value="Japane"
+                   name="contact" value="Japan"
                    onChange={this.onCheck}
             />
           </h5>
